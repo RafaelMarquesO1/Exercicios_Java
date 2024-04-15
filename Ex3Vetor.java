@@ -24,9 +24,5 @@ public class Ex3Vetor {
                 double ap = numero[i] * 2;
                 System.out.println(ap);
             }
-            else if(i != 0){
-                double pa = numero[i];
-                System.out.println(pa);
-            }
     }
 }
